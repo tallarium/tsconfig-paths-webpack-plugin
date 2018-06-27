@@ -10,7 +10,8 @@
   "dependencies": {
     "chalk": "^2.3.0",
     "enhanced-resolve": "^4.0.0",
-    "tsconfig-paths": "^3.4.0"
+    "tsconfig-paths":
+      "tallarium/tsconfig-paths#619e595cdf87d283dccd4e63558d77bcdbd2442b"
   },
   "devDependencies": {
     "@types/colors": "^1.1.3",
